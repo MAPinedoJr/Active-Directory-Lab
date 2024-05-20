@@ -19,7 +19,7 @@ The Active Directory Home Lab project creates a controlled domain environment to
 - Telemetry generation tools (Crowbar, Atomic Red Team) to create realistic attack scenarios.
 - Database of users promoted to a domain controller (Active Directory).
 
-## Steps
+### Steps
 HARDWARE RECOMMENDATIONS: Windows OS, 16 GB RAM, 250 GB Disk Space
 
 Network Diagram: General Network Design and Topology.
@@ -29,3 +29,4 @@ Network Diagram: General Network Design and Topology.
 - Regular PC: Target Machine.
   
 ![Screenshot 2024-05-19 211025](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ff6f8853-8b06-44fb-a9d1-a28330b851b3)
+
