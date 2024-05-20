@@ -30,6 +30,7 @@ Network Diagram: General Network Design and Topology.
   
 ![Screenshot 2024-05-19 211025](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ff6f8853-8b06-44fb-a9d1-a28330b851b3)
 
-### Install Virtual
+### Install VirtualBox
 https://www.virtualbox.org/wiki/Downloads
+
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/84628c34-c703-4cc7-b9d0-0570e305255d)
