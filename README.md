@@ -36,7 +36,8 @@ https://www.virtualbox.org/wiki/Downloads
 Follow the Setup Wizard and leave everything on default by clicking "Next" or "Yes" until you see "Finish". 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/84628c34-c703-4cc7-b9d0-0570e305255d)
 
-### Create Windows 10 ISO Image
+### Install Windows 10 Machine
+#### Create Windows 10 ISO Image
 https://www.microsoft.com/en-us/software-download/windows10
 <br>
 
@@ -95,6 +96,12 @@ Make sure to select "Windows 10 Pro".
 Accept the license terms and then select "Custom: Install...".
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/9f28001c-166f-467e-bfe2-aa8afae192d5)
+
+CLick "Next" and it should begin installing.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/622df971-609e-4067-bf53-7fb2bf0569f6)
+
+
 
 
 
