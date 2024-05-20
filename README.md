@@ -75,6 +75,28 @@ Leave everything on default for Virtual Hard Disk and continue.
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/bb8a3adf-c5fc-40ab-aa32-e0296d7a1d72)
 
 Click "Finish" on the Summary page.
+<br>
+Click on the green arrow to "Start" the machine. You should get the following windows 10 setup screen after starting.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/419435c1-4bdb-44d5-bd93-0669825cbc33)
+
+After clicking "Next", click "Install now".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/f6694f37-23e2-43e6-9137-cab67a138834)
+
+When prompted to Acvtivate Windows, click "I dont have a product key".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/f2a3a475-80f3-4020-84c9-2b59b0da08b7)
+
+Make sure to select "Windows 10 Pro".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/a1430c80-9e94-4ed0-a9ce-f65b7109eee4)
+
+Accept the license terms and then select "Custom: Install...".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/9f28001c-166f-467e-bfe2-aa8afae192d5)
+
+
 
 
 
