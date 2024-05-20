@@ -7,7 +7,7 @@ The Active Directory Home Lab project creates a controlled domain environment to
 ### Skills Learned
 
 - Understanding of SIEM concepts and practical application.
-- Analyzing and interpreting network logs.
+- Analyzing and interpreting logs.
 - Ability to generate attacks.
 - Knowledge of network protocols and security vulnerabilities.
 - Critical thinking and problem-solving skills in Blue Teaming and general IT.
@@ -15,7 +15,6 @@ The Active Directory Home Lab project creates a controlled domain environment to
 ### Tools Used
 
 - Security Information and Event Management (Splunk) system for log analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools (Crowbar, Atomic Red Team) to create realistic attack scenarios.
 - Database of users promoted to a domain controller (Active Directory).
 
