@@ -32,5 +32,14 @@ Network Diagram: General Network Design and Topology.
 
 ### Install VirtualBox
 https://www.virtualbox.org/wiki/Downloads
-
+<br>
+Follow the Setup Wizard and leave everything on default by clicking "Next" or "Yes" until you see "Finish". 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/84628c34-c703-4cc7-b9d0-0570e305255d)
+
+### Create Windows 10 ISO Image
+https://www.microsoft.com/en-us/software-download/windows10
+<br>
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5cca554c-5da3-4a0f-8225-c7a0e667cac9)
+
+
