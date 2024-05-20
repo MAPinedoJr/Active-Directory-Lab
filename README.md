@@ -1,8 +1,8 @@
-# Active Directory Lab
+# Active Directory Home Lab
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Active Directory Home Lab project is aimed to create a controlled domain environment to explore and understand the workings of Active Directory. This environment included the integration of Splunk, Kali Linux for penetration testing, and Atomic Red Team for simulating real-world attacks. The primary focus was to centralize and analyze logs within the SIEM (Splunk) by generating test telemetry to mimic actual attack scenarios. This hands-on project was designed to deepen understanding of domain environments, network security and attacks and provide practical experience.
 
 ### Skills Learned
 
@@ -10,7 +10,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Analyzing and interpreting network logs.
 - Ability to generate attacks.
 - Knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Critical thinking and problem-solving skills in Blue Teaming and general IT.
 
 ### Tools Used
 
@@ -20,9 +20,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Database of users promoted to a domain controller (Active Directory).
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
