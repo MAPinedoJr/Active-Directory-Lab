@@ -64,6 +64,16 @@ Open Virtual Box and Select "New".
 
 Name the virtual machine and find the ISO image you downloaded for windows 10. Skip unattended installation.
 
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/1ee9648e-8517-4010-9fe7-fbd85c1f9df4)
+
+Give the machine 4 GB RAM and 1 CPU. Continue.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/c74e8b58-c15f-4183-811f-2c1e1b67ebce)
+
+Leave everything on default for Virtual Disk and continue. 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/bb8a3adf-c5fc-40ab-aa32-e0296d7a1d72)
+
 
 
 
