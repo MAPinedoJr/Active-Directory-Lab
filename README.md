@@ -21,6 +21,6 @@ The Active Directory Home Lab project creates a controlled domain environment to
 
 ## Steps
 
-Network Diagram
+Network Diagram: General Layout of the 
 
 ![Screenshot 2024-05-19 211025](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ff6f8853-8b06-44fb-a9d1-a28330b851b3)
