@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Active Directory Home Lab project is aimed to create a controlled domain environment to explore and understand the workings of Active Directory. This environment included the integration of Splunk, Kali Linux for penetration testing, and Atomic Red Team for simulating real-world attacks. The primary focus was to centralize and analyze logs within the SIEM (Splunk) by generating test telemetry to mimic actual attack scenarios. This hands-on project was designed to deepen understanding of domain environments, network security and attacks and provide practical experience.
+The Active Directory Home Lab project creates a controlled domain environment to explore and understand the workings of Active Directory. This environment included the integration of Splunk, Kali Linux for penetration testing, and Atomic Red Team. The primary focus is to centralize and analyze logs within the SIEM (Splunk) by generating test telemetry to mimic attack scenarios. This hands-on project was designed to deepen understanding of domain environments, network security, and attack patterns while providing practical experience.
 
 ### Skills Learned
 
