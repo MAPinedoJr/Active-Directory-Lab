@@ -23,6 +23,9 @@ The Active Directory Home Lab project creates a controlled domain environment to
 HARDWARE RECOMMENDATIONS: Windows OS, 16 GB RAM, 250 GB Disk Space
 
 Network Diagram: General Network Design and Topology.
-
-
+- Green Dotted Lined: Indicates forwarding of data to splunk server.
+- Dotted Lined: Indicates forwarding of data to splunk server.
+- Red PC: Attacker.
+- Regular PC: Target Machine.
+  
 ![Screenshot 2024-05-19 211025](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ff6f8853-8b06-44fb-a9d1-a28330b851b3)
