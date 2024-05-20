@@ -46,3 +46,24 @@ Click on the file to open the "Windows 10 setup".
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/2b0365f6-97a5-4684-b987-40750aa554d5)
 
+Select the second option and continue. 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4811e196-4597-4ac9-bed3-6f910aff76c6)
+
+Use the recommended options and continue.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/f731d317-c361-4293-9fc7-7f6d5228c159)
+
+Select ISO file and continue. Save it anywhere you like.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/c807a135-f48b-4ef8-a197-65ea0a7e41c1)
+
+Open Virtual Box and Select "New".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/22083ba5-8438-4477-9ef3-99844b374ac1)
+
+Name the virtual machine and find the ISO image you downloaded for windows 10. Skip unattended installation.
+
+
+
+
