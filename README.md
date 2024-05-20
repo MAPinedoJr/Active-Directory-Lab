@@ -42,4 +42,7 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5cca554c-5da3-4a0f-8225-c7a0e667cac9)
 
+Click on the file to open the "Windows 10 setup".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/2b0365f6-97a5-4684-b987-40750aa554d5)
 
