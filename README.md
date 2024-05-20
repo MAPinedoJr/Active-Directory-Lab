@@ -101,6 +101,9 @@ CLick "Next" and it should begin installing.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/622df971-609e-4067-bf53-7fb2bf0569f6)
 
+Follow the windows 10 setup and choose an offline account. You will have to setup a password for the machine. Skip through most customizations.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8a978712-009e-40ad-a479-7716a2cae26d)
 
 
 
