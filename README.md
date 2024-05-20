@@ -20,7 +20,9 @@ The Active Directory Home Lab project creates a controlled domain environment to
 - Database of users promoted to a domain controller (Active Directory).
 
 ## Steps
+HARDWARE RECOMMENDATIONS: Windows OS, 16 GB RAM, 250 GB Disk Space
 
-Network Diagram: General Layout of the 
+Network Diagram: General Network Design and Topology.
+
 
 ![Screenshot 2024-05-19 211025](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ff6f8853-8b06-44fb-a9d1-a28330b851b3)
