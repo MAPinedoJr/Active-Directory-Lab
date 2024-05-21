@@ -301,6 +301,12 @@ Select NAT Networks > Create. Name the network AD-Project and give it the IPv4 P
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/21432945-d79b-416a-9c18-b3a385da2f65)
 
+Select the Splunk server and go to Settings > Network. Make sure it is attached to NAT Network > AD-Project. Select OK.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/2521b77a-03ea-4381-8910-1d04f8f2227d)
+
+Do the same thing for the Windows Server, Windows Target Machine, and Kali Machine.
+
 
 
 
