@@ -107,7 +107,10 @@ Follow the windows 10 setup and choose an offline account. You will have to setu
 You will then boot into the Windows 10 desktop environment.
 
 ### Install Kali Linux
+https://www.kali.org/get-kali/#kali-virtual-machines 
+<br>
 
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/099a7a22-b61e-43d2-bcf7-c69dde3ab399)
 
 
 
