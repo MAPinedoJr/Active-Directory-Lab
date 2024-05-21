@@ -104,6 +104,9 @@ Follow the windows 10 setup and choose an offline account. You will have to setu
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8a978712-009e-40ad-a479-7716a2cae26d)
 
+You will then boot into the Windows 10 desktop environment.
+
+### Install Kali Linux
 
 
 
