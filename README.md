@@ -112,6 +112,13 @@ https://www.kali.org/get-kali/#kali-virtual-machines
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/099a7a22-b61e-43d2-bcf7-c69dde3ab399)
 
+Download and install 7-zip.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/cc21b4fc-7c6d-4e85-9fa6-dc526dbf910f)
+
+Right Click kali linux file and extract with 7-zip.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/f91c1930-502e-471b-8f55-47fa3b62ea4c)
 
 
 
