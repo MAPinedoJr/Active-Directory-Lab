@@ -158,6 +158,44 @@ Leave Virtual Hard Disk on default and Click next. Click Finish.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/3a46c9e8-3610-4fc8-9cd1-4dc2803b826e)
 
+Once you start the machine, you should see the following, click next.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4b4c1342-fc19-4f21-8f8f-f8e940ec0e73)
+
+Select Install now. 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/cf985f81-d2d3-470e-8f5e-fb92a94ec3a3)
+
+Select the follwoing OS and click next.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/1d4a1a84-3b52-4dd3-b34c-e1bde65cafd2)
+
+Select custom install.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/378790d5-3bb3-4b58-b237-f408815e4a63)
+
+Click next.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/990ce376-347e-47d9-bbcf-e1a220a15fea)
+
+Microsoft server should then begin installing.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/050d21c3-72da-455d-8b34-cdeda102e07f)
+
+After it has finished installing, create a super secure password and click finish.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5e671223-9242-4232-870d-729207ce03e9)
+
+You will then be prompted to Press Ctrl+Alt+Delete. Insert this by going to Input > Keyboad > Insert Ctrl-Alt-Del.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/b68ef758-c4b4-4360-a547-3a126c6fd58d)
+
+Login using the password you set and you should see Server Manager once you login.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/597a16f2-08fa-4586-9852-7ae88105922c)
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8f77efa0-58e9-4c3b-b9cf-a0ff147c2ab9)
+
 
 
 
