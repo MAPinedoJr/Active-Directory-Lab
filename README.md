@@ -129,6 +129,34 @@ Kali should be imported. If you click the green start arrow, log in using defaul
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/407638c5-9b4b-47fd-a551-d5845c2fa929)
 
 
+### Install Windows Server
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022 
+Click Download ISO.
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/60d7032f-d6c5-4ddd-bd81-8df52dd7ee76)
+
+Fill out the fields and click Download now.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8f2472a0-7041-4aa1-aba2-8d27e9a99096)
+
+Download 64 bit ISO.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4a3b40f9-cb0a-4533-acc9-459063b5c863)
+
+On vitual box click New.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/22083ba5-8438-4477-9ef3-99844b374ac1)
+
+Fill out the name, use the ISO image you downloaded, and Skip Unattended Installation.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4ba5f5c5-2462-4e74-bb18-a08e7d0ef58e)
+
+Give the machine 4 GB of RAM and 1 CPU.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ce45dacb-b071-4298-b666-a29c3182b2fe)
+
+Leave Virtual Hard Disk on default and Click next. Click Finish.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/3a46c9e8-3610-4fc8-9cd1-4dc2803b826e)
 
 
 
