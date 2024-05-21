@@ -283,7 +283,7 @@ When it is finished rebooting, login with your username and password. Dont worry
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8bfb90ac-86ea-4f74-aa03-a67acf0b6447)
 
 Run the command: "sudo apt-get update && sudo apt-get upgrade -y". It will ask for your password.
-You should see the following message at the bottom if everthing is up-to-date.
+You should see the following message at the bottom if everything is up-to-date.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5bb71d0f-f2dc-4c97-b341-e8d92e1c6d93)
 
