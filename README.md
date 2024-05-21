@@ -292,6 +292,17 @@ If you see this screen simply hit enter.
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/bcc226b7-9527-45ca-862b-a98204fd86ee)
 
 
+### Create a NAT Network in VirtualBox
+On VirtualBox, Select Tools > Network.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8c07f3e4-8930-4ffd-8586-47bcf16f08c9)
+
+Select NAT Networks > Create. Name the network AD-Project and give it the IPv4 Prefix as shown in our diagram: 192.168.10.0/24
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/21432945-d79b-416a-9c18-b3a385da2f65)
+
+
+
 
 
 
