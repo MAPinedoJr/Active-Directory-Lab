@@ -118,7 +118,15 @@ Download and install 7-zip.
 
 Right Click kali linux file and extract with 7-zip.
 
-![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/f91c1930-502e-471b-8f55-47fa3b62ea4c)
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/83528aba-da4d-4b75-a730-60d4f86f7404)
+
+Double Click Kali Linux .vbox file to import it into virtual box.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4bebf8e1-cec3-42ff-b268-4da85e46a875)
+
+Kali should be imported. If you click the green start arrow, log in using default credentials: Passwd: "kali" User: "kali".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/407638c5-9b4b-47fd-a551-d5845c2fa929)
 
 
 
