@@ -142,7 +142,7 @@ Download 64 bit ISO.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4a3b40f9-cb0a-4533-acc9-459063b5c863)
 
-On vitual box click New.
+On VirtualBox click New.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/22083ba5-8438-4477-9ef3-99844b374ac1)
 
@@ -195,6 +195,108 @@ Login using the password you set and you should see Server Manager once you logi
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/597a16f2-08fa-4586-9852-7ae88105922c)
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8f77efa0-58e9-4c3b-b9cf-a0ff147c2ab9)
+
+
+### Install Ubuntu/Splunk Server
+https://ubuntu.com/download/server
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/151e2411-aa24-436b-98c1-c59b05c2020f)
+
+Go to VirtualBox and select new. 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/22083ba5-8438-4477-9ef3-99844b374ac1)
+
+Fill out the name, use the ISO image you downloaded, and Skip Unattended Installation.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/96af55d3-eb52-415f-a26e-a85035f8cecd)
+
+Give the machine 8 GB RAM and 2 CPU.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/3348aec5-94aa-4bcf-8759-b1150ab70dc7)
+
+Give the machine 100 Gb of Disk Space.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/62ebfe2c-0b54-42be-a0ca-72eb022d21af)
+
+Once you click finish on the summary, start the machine and you will see the boot options. Select Try or Install Ubuntu Server.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5e60d654-e99c-46cc-a9f8-4567c3cff7b7)
+
+Select your prefered language and hit enter. 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/d91d3b9f-61fd-4e67-a33a-d514151028c0)
+
+Hit enter if correct.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/2fb5edc1-9e4a-4cf7-908e-552af54fc059)
+
+Hit enter and select done for the default selection.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/53e190d0-457f-4913-b43a-a1d2371d5f41)
+
+Hit enter and select done  for the default selection.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/6740de30-cc8b-40e1-b6c9-5aaa51be4d66)
+
+Hit enter and select done  for the default selection.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/a82e31ae-49eb-4874-9100-23eb7008c9c0)
+
+Hit enter and select done  for the default selection.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5f675a8c-52d9-4a83-a169-d5fb236b1f7a)
+
+Use down arrow to select Done 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/bf240df2-4ba7-4094-8f48-b64e1a70e72a)
+
+Select done and continue.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/17d3938e-ca31-42a6-bae1-3726c0c7ae87)
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/6e719a89-7c7b-496b-94d5-459bc39c9c24)
+
+Fill out all of the fileds and select Done. 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ce230011-a10d-4b28-9307-5a9be469355e)
+
+Skip for now and select Done.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/a6c0cbcb-dfae-4cb1-b7e1-29acf22887f5)
+
+Select Done to skip SSH Config.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/e1262cd7-ff20-4f9c-ae2e-d02423b9f92c)
+
+Dont select any of the options. Select Done.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/e3f4797e-2ca1-45b1-9cdc-683f7babe94a)
+
+Ubuntu server should begin installing. Once completed, you should see a Reboot Now option. Select it.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/3f0d869a-6366-4903-88e6-cf04a777c874)
+
+Do not worry if you see a FAILED message. Simply just press enter and it should reboot.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/c2fe1c26-b3e8-4733-a2a2-cfd03e3b1fcb)
+
+When it is finished rebooting, login with your username and password. Dont worry if you dont see your password when logging in. Linux hides the password, enter your password and press enter, try again if failed.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8bfb90ac-86ea-4f74-aa03-a67acf0b6447)
+
+Run the command: "sudo apt-get update && sudo apt-get upgrade -y". It will ask for your password.
+You should see the following message at the bottom if everthing is up-to-date.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5bb71d0f-f2dc-4c97-b341-e8d92e1c6d93)
+
+If you see this screen simply hit enter.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/bcc226b7-9527-45ca-862b-a98204fd86ee)
+
+
+
+
+
+
+
 
 
 
