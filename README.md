@@ -308,6 +308,31 @@ Select the Splunk server and go to Settings > Network. Make sure it is attached 
 Do the same thing for the Windows Server, Windows Target Machine, and Kali Machine.
 
 
+### Configure Splunk Server
+
+On the Ubuntu Server enter the command: "ip a". In our diagram, we specified an IP of 192.168.10.10 for the server. We will need to set up a static IP.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/54eb170f-da35-4b50-986e-00d1fd0fa4bf)
+
+Type in the following command: "sudo nano /etc/netplan/". Before pressing enter press TAB to autocomplete to show this command: 
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/e92e8162-967a-4da3-9f07-18c2c70b4ded)
+
+Press Enter. Navigate using the arrow keys down to "dhcp4" and change "true" to "no". 
+Press Enter and press TAB 6 times or as many needed to line up directly under "dhcp4". Enter the following: "addresses: [192.168.10.10/24]". 
+Press Enter and press TAB 6 times or as many needed to line up directly under "addresses". Enter the following: "nameserver: ".
+Press Enter and press TAB 8 times or as many needed to line up under the "server" portion of "name server". Enter the following: "addresses: [8.8.8.8]". (It is Google's DNS server)
+Press Enter and press TAB 6 times or as many needed to line up directly under "nameserver". Enter the following: "routes: ".
+Press Enter and press TAB 8 times or as many needed to line up directly under "addresses:. Enter the following: "- to: default".
+Press Enter and press TAB 9 times or as many needed to line up directly under "to:". Enter the following: "via: 192.168.10.1"
+Your screen should look similar to this:
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/eef4e41d-35e1-4596-ba6c-8a7dbe3cbf43)
+
+
+
+
+
 
 
 
