@@ -333,7 +333,7 @@ Press CTRL+x. You should see: Save modified buffer? Press Y. Press Enter and the
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/34bb7d4d-5f36-49b9-b922-a39b7c646f79)
 
-Type "ip a" and you should see 192.168.10.10 as your address. 
+Type "ip a" and you should see 192.168.10.10 as your IP address. 
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5d65f382-c3e7-411b-860e-8c1cf2b10a7c)
 
