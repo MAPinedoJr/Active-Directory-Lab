@@ -337,6 +337,27 @@ Type "ip a" and you should see 192.168.10.10 as your IP address.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/5d65f382-c3e7-411b-860e-8c1cf2b10a7c)
 
+On your host machine (your computer where everything is running) navigate over to the Splunk website. https://www.splunk.com <br>
+Sign Up or Log in to your account and navigate to Products > Free Trials & Downloads.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/c17b112a-a8b8-4568-8201-d64f5beca2d0)
+
+Splunk Enterprise > Get My Free Trial.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/218961c2-987e-48c2-aca0-f4db7d656455)
+
+Select Linux and make sure it is the .deb file and Download Now.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4a2605fa-fc22-41c1-9459-1ac6f67a1ce7)
+
+On the Ubuntu Server machine type the command: "sudo apt-get install virtualbox-guest-additions-iso" and press Enter. <br>
+Type Y and Enter.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/49519018-9210-42ba-940a-77f65c792043)
+
+
+
+
 
 
 
