@@ -321,7 +321,7 @@ Type in the following command: "sudo nano /etc/netplan/". Before pressing enter 
 Press Enter. Navigate using the arrow keys down to "dhcp4" and change "true" to "no". <br>
 Press Enter and press TAB 6 times or as many needed to line up directly under "dhcp4". Enter the following: "addresses: [192.168.10.10/24]". <br>
 Press Enter and press TAB 6 times or as many needed to line up directly under "addresses". Enter the following: "nameserver: ". <br>
-Press Enter and press TAB 8 times or as many needed to line up under the "server" portion of "name server". Enter the following: "addresses: [8.8.8.8]". (It is Google's DNS server)
+Press Enter and press TAB 8 times or as many needed to line up under the "server" portion of "name server". Enter the following: "addresses: [8.8.8.8]". (It is Google's DNS server) <br>
 Press Enter and press TAB 6 times or as many needed to line up directly under "nameserver". Enter the following: "routes: ". <br>
 Press Enter and press TAB 8 times or as many needed to line up directly under "addresses:. Enter the following: "- to: default". <br>
 Press Enter and press TAB 9 times or as many needed to line up directly under "to:". Enter the following: "via: 192.168.10.1" <br>
