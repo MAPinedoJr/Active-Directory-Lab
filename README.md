@@ -346,16 +346,55 @@ Splunk Enterprise > Get My Free Trial.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/218961c2-987e-48c2-aca0-f4db7d656455)
 
-Select Linux and make sure it is the .deb file and Download Now.
+Select Linux and make sure it is the .deb file and Download Now. Save it to a folder called Active-Directory-Project.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4a2605fa-fc22-41c1-9459-1ac6f67a1ce7)
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/616923f4-15f5-4b8c-a2e4-616400250673)
 
 On the Ubuntu Server machine type the command: "sudo apt-get install virtualbox-guest-additions-iso" and press Enter. <br>
 Type Y and Enter.
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/49519018-9210-42ba-940a-77f65c792043)
 
+When completed navigate over to Devices > Shared Folders > Shared Folder Settings.
 
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/1d9c01c3-cabb-415f-aea6-5ef6bc427305)
+
+Add a new folder by clicking the +Folder icon. Folder Path = where you put the Splunk download. Folder Name = anything you want. Select Read-Only, Auto mount, and Make Permanent.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/7a656475-e9ed-43f5-b9c3-f31026b90888)
+
+On the Ubuntu Server type: "sudo apt-get install virtualbox-guest-utils". Press Enter.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/b8a5dfa3-f445-4d6f-82cf-4a02b7a34969)
+
+Reboot the Ubuntu Server by typing: "sudo reboot". <br>
+Log in and add our user to the vboxsf group by typing: "sudo adduser <username> vboxsf". Press Enter.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/4b06f1e6-f012-48c2-92e9-e1fede0f557d)
+
+Create a new directory called "share" by typing: "mkdir share".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/82421dae-cd3b-4d42-8c04-8ea3ea6f6cba)
+
+We will then mount our shared folder to our directory named "share": "sudo mount -t vboxsf -o uid=1000,gid=1000 <Folder-Name> share/".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/ef57d4ed-793a-4138-9094-3b37db98ecfb)
+
+Change into the share directory: "cd share". Install Splunk: "sudo dpkg -i splunk". Before pressing Enter, press TAB to autofill the splunk installer. Press Enter.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/c9755cc1-a0ba-4e8e-b4fe-4738f3dc23fb)
+
+Change into the Splunk user: "sudo -u splunk bash". Change into the bin directory: "cd ~/bin".
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/96c2c493-4b86-4c96-9d81-5af7840f44d1)
+
+Run the installer by typing: "./splunk start". When you see the Splunk General Terms press q and press y to agree to the license. Press Enter.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8a831b0f-a780-46db-8acf-536546325000)
+
+Enter an admin name and a password. Then, run a command so splunk starts everytime the machine is booted up.  
 
 
 
