@@ -394,7 +394,11 @@ Run the installer by typing: "./splunk start". When you see the Splunk General T
 
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/8a831b0f-a780-46db-8acf-536546325000)
 
-Enter an admin name and a password. Then, run a command so splunk starts everytime the machine is booted up.  
+Enter an admin name and a password. Then run a command so splunk starts everytime the machine is booted up.  <br>
+First, type: "exit". Press Enter then: "cd /opt/splunk/bin". Press Enter then: "sudo ./splunk enable boot-start -user splunk". Press Enter.
+
+![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/42504ed8-7601-4d1f-9e4d-f24926ac85b9)
+
 
 
 
