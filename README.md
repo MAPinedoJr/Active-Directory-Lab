@@ -400,8 +400,7 @@ First, type: "exit". Press Enter then: "cd /opt/splunk/bin". Press Enter then: "
 ![image](https://github.com/MAPinedoJr/Active-Directory-Lab/assets/168390763/42504ed8-7601-4d1f-9e4d-f24926ac85b9)
 
 
-
-
+### Install Splunk Universal Forwader and Sysmon
 
 
 
