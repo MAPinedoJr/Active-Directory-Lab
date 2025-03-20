@@ -10,7 +10,7 @@ The Active Directory Home Lab project creates a controlled domain environment to
 - Analyzing and interpreting logs.
 - Ability to generate attacks.
 - Knowledge of network protocols and security vulnerabilities.
-- Critical thinking and problem-solving skills in Blue Teaming and general IT.
+- Critical thinking and problem-solving skills in general IT.
 
 ### Tools Used
 
